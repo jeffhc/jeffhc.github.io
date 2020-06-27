@@ -1,0 +1,166 @@
+{
+  "main": {
+    "name":"Jeff Cao",
+    "occupation":"(Your Occupation Here)",
+    "description":"I'm a University of Chicago first year (BA in Economics spec. Data Science) with interests in economics, data science, astrophysics, and finance.",
+    "image":"profile_jeff.jpg",
+    "bio":"In my gap year after high school and before attending University of Chicago, I travelled across Asia and worked for Beijing-based and Hong Kong-based startups, in both management and technical roles. I have experience in fintech, mobile & web design, machine learning, and product design. Other things which interest me are music, tennis, skiing, and food. Don’t hesitate to reach out if you want to collaborate!",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "jeff8@uchicago.edu",
+    "phone": "(508) 404-9448",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.jeffreyhc.com",
+    "resumedownload":"http://www.jeffreyhc.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/jeffrey.hcao",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/jeffrey.hc",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/jeffrey-cao-3775b0150/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/jeffhc",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University of Chicago",
+        "degree":"Undergraduate, BA in Economics with Specialization in Data Science",
+        "graduated":"2019 - 2023",
+        "description":"At UChicago, I'm an active member of Maroon Capital, the Intercollegiate Finance Journal, squash club, and intramural sports."
+      },
+      {
+        "school":"Milton Academy",
+        "degree":"High School, Boston MA",
+        "graduated":"2014 - 2018",
+        "description":"At Milton, I was a cohead and the Portfolio Manager of the Investment Club. I was also the cofounder of Milton's Filmmaking Club, which produced two films that appeared in the All American High School Filmmaking Festival."
+      }
+    ],
+    "work":[
+      {
+        "company":"Shangjing Technologies, Ltd",
+        "title":"Chief Technology Officer (CTO)",
+        "years":"Oct 2018 – June 2019",
+        "company_bio": "Beijing-based B2B O2O photography-sharing startup",
+        "description":"Co-founded Shangjing, built and managed a team of engineers for the design and production of the mobile app, working with design, project management, product deployment, user testing, etc. Led the development of the app"
+      },
+      {
+        "company":"Zhisai Chess",
+        "title":"Front-end Software Developer",
+        "years":"Sept 2018 – Nov 2018",
+        "company_bio": "Leading national Chinese Chess/Go/Checkers/etc. Competitive Tournament platform",
+        "description":"Developed the front-end of the live online chess tournament website using React.js, GraphQL and TypeScript. Built live streaming for website’s current live national chess tournament streaming."
+      },
+      {
+        "company":"Miracle Day Technologies, Ltd",
+        "title":"AI researcher, iOS developer",
+        "years":"Jun – Sept 2018",
+        "company_bio": "Hong Kong-based Financial Services and mobile investing company",
+        "description":"Built/deployed natural language processing (convolutional neural networks) models to conduct sentiment analysis of financial news articles, which is now used to give sentiment ratings in the smart web/iOS mobile investment app. Also developed the iOS app financial charting and trading indicators."
+      }
+    ],
+    "publications":[
+        {
+            "title":"Desire Path-Inspired Procedural Placement of Coins in a Platformer Game.",
+            "authors":"Sarkar, Sriram, Padte, Cao, Cooper.",
+            "date":"Northeastern University, Boston, Massachusetts. 2018",
+            "description":"Proceedings of the Experimental AI in Games Workshop (2018).",
+            "link1": "http://www.khoury.neu.edu/home/scooper/index_files/pub/sarkar2018desire.pdf",
+            "link2": "http://www.exag.org/exag-2018-schedule/"
+        }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"UCEvents",
+        "category":"An event platform for UChicago students, submitted to Uncommon Hacks 2020 Hackathon",
+        "image":"ucevents.png",
+        "url":"https://devpost.com/software/ucevents-qmlcfz",
+        "repo_url": "https://github.com/dylanirlbeck/ucevents"
+      },
+      {
+        "title":"Instagram Colors",
+        "category":"Model for correlating Instagram post image styles and colors with number of likes and other meta-data",
+        "image":"ig.png",
+        "url":"/instagram_colors_paper.pdf",
+        "repo_url": "https://github.com/jeffhc/instagram-colors"
+      },
+      {
+        "title":"BTC reddit",
+        "category":"Correlating the erratic changes in Bitcoin’s price with sentiments expressed on reddit",
+        "image":"btc_reddit.png",
+        "url":"https://mspries.github.io/bitcoin-price.html",
+        "repo_url": "https://github.com/warmar/BTC-Price"
+      },
+      {
+        "title":"Autoencoder Style Transfer",
+        "category":"Generalized autoencoder style transfer using Feed-Forward neural networks",
+        "image":"style_transfer.png",
+        "url":"https://mspries.github.io/PJEStyle.html",
+        "repo_url": "https://github.com/warmar/Autoencoder-Style-Transfer"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
