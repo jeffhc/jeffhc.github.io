@@ -2,7 +2,7 @@
   "main": {
     "name":"Jeff Cao",
     "occupation":"(Your Occupation Here)",
-    "description":"I'm a University of Chicago first year (BA in Economics spec. Data Science) with interests in economics, data science, astrophysics, and finance.",
+    "description":"I'm a second year student at the University of Chicago studying Economics spec. Data Science and Computer Science.",
     "image":"profile_jeff.jpg",
     "bio":"In my gap year after high school and before attending University of Chicago, I travelled across Asia and worked for Beijing-based and Hong Kong-based startups, in both management and technical roles. I have experience in fintech, mobile & web design, machine learning, and product design. Other things which interest me are music, tennis, skiing, and food. Don’t hesitate to reach out if you want to collaborate!",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -29,7 +29,7 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/jeffrey-cao-3775b0150/",
+        "url":"https://www.linkedin.com/in/jeffreyhcao/",
         "className":"fa fa-linkedin"
       },
       {
@@ -44,9 +44,9 @@
     "education":[
       {
         "school":"University of Chicago",
-        "degree":"Undergraduate, BA in Economics with Specialization in Data Science",
+        "degree":"Undergraduate, BA in Economics with Specialization in Data Science, BS Computer Science",
         "graduated":"2019 - 2023",
-        "description":"At UChicago, I'm an active member of Maroon Capital, the Intercollegiate Finance Journal, squash club, and intramural sports."
+        "description":"At UChicago, I'm the Outreach Lead of Maroon Capital (https://mc.uchicago.edu/), and a member of the TAMID group UChicago chapter."
       },
       {
         "school":"Milton Academy",
@@ -56,6 +56,13 @@
       }
     ],
     "work":[
+      {
+        "company":"Finalyze Capital, LLC",
+        "title":"Quantitative Trading Intern",
+        "years":"June 2020 – Sept 2020",
+        "company_bio": "Futures/equities Trading Firm",
+        "description":"Coded and researched systematic trading strategies for futures markets. Optimized strategies and regression models in Python using libraries like Pandas, Numpy, & statsmodels."
+      },
       {
         "company":"Shangjing Technologies, Ltd",
         "title":"Chief Technology Officer (CTO)",
