@@ -2,9 +2,9 @@
   "main": {
     "name":"Jeff Cao",
     "occupation":"(Your Occupation Here)",
-    "description":"I'm a second year student at the University of Chicago studying Economics spec. Data Science and Computer Science.",
+    "description":"I'm a third year student at the University of Chicago studying Computer Science and Economics spec. Data Science.",
     "image":"profile_jeff.jpg",
-    "bio":"In my gap year after high school and before attending University of Chicago, I travelled across Asia and worked for Beijing-based and Hong Kong-based startups, in both management and technical roles. I have experience in fintech, mobile & web design, machine learning, and product design. Other things which interest me are music, tennis, skiing, and food. Don’t hesitate to reach out if you want to collaborate!",
+    "bio":"In my gap year after high school and before attending University of Chicago, I travelled across Asia and worked for Beijing and Shenzhen-based startups, in both product management and software development roles. I have experience in fintech, mobile & web design, machine learning, and product design. My other interests include cycling, tennis, skiing, Formula 1, and food. Don’t hesitate to reach out if you want to collaborate!",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "jeff8@uchicago.edu",
     "phone": "(508) 404-9448",
@@ -44,31 +44,38 @@
     "education":[
       {
         "school":"University of Chicago",
-        "degree":"Undergraduate, BA in Economics with Specialization in Data Science, BS Computer Science",
+        "degree":"Undergraduate, B.S. Computer Science, B.A. Economics with Specialization in Data Science",
         "graduated":"2019 - 2023",
-        "description":"At UChicago, I'm the Outreach Lead of Maroon Capital (https://mc.uchicago.edu/), and a member of the TAMID group UChicago chapter."
+        "description":"At UChicago, I'm a Board Member of Maroon Capital (https://mc.uchicago.edu/), and a member of the TAMID group UChicago chapter."
       },
       {
         "school":"Milton Academy",
         "degree":"High School, Boston MA",
         "graduated":"2014 - 2018",
-        "description":"At Milton, I was a cohead and the Portfolio Manager of the Investment Club. I was also the cofounder of Milton's Filmmaking Club, which produced two films that appeared in the All American High School Filmmaking Festival."
+        "description":"At Milton, I was a cohead and the Portfolio Manager of the Investment Club. I was also a cofounder of Milton's Filmmaking Club, which produced two films for the All American High School Filmmaking Festival."
       }
     ],
     "work":[
       {
-        "company":"Finalyze Capital, LLC",
-        "title":"Quantitative Trading Intern",
-        "years":"June 2020 – Sept 2020",
-        "company_bio": "Futures/equities Trading Firm",
-        "description":"Coded and researched systematic trading strategies for futures markets. Optimized strategies and regression models in Python using libraries like Pandas, Numpy, & statsmodels."
+        "company":"CME Group, Inc",
+        "title":"Software Developer & Risk Mgmt. Intern",
+        "years":"July 2021 – Current",
+        "company_bio": "Global Financial Derivatives Markets Company",
+        "description":"Built futures & options risk calculation tools using Python, VBA, SQL. Used Pandas to process client portfolio data into dashboard metrics that allows easy detection of outliers and potential at-risk clients. Analyzed Interest Rate Swap data to inform on trading costs and risk margins for major clients, and to update models for client default simulations."
       },
       {
-        "company":"Shangjing Technologies, Ltd",
-        "title":"Chief Technology Officer (CTO)",
+        "company":"Finalyze Capital",
+        "title":"Quantitative Trading & Software Intern",
+        "years":"June 2020 – Sept 2020",
+        "company_bio": "Futures/equities Trading Firm",
+        "description":"Developed trading systems (statistical arbitrage, macroeconomic trends) across commodity futures markets. Utilized regression models such as OLS, vector autoregression, Kalman filter, and other state space models."
+      },
+      {
+        "company":"Shangjing Technologies",
+        "title":"Chief Technology Officer",
         "years":"Oct 2018 – June 2019",
-        "company_bio": "Beijing-based B2B O2O photography-sharing startup",
-        "description":"Co-founded Shangjing, built and managed a team of engineers for the design and production of the mobile app, working with design, project management, product deployment, user testing, etc. Led the development of the app"
+        "company_bio": "Beijing-based Startup in On-Demand Professional Photography",
+        "description":"Co-founded Shangjing, built and managed a team of engineers for the design and production of the mobile app, working with design, project management, product deployment, user testing, etc."
       },
       {
         "company":"Zhisai Chess",
@@ -79,9 +86,9 @@
       },
       {
         "company":"Miracle Day Technologies, Ltd",
-        "title":"AI researcher, iOS developer",
+        "title":"Software Development Intern, ML Research",
         "years":"Jun – Sept 2018",
-        "company_bio": "Hong Kong-based Financial Services and mobile investing company",
+        "company_bio": "Shenzhen-based Financial Services and mobile investing company",
         "description":"Built/deployed natural language processing (convolutional neural networks) models to conduct sentiment analysis of financial news articles, which is now used to give sentiment ratings in the smart web/iOS mobile investment app. Also developed the iOS app financial charting and trading indicators."
       }
     ],
