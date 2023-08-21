@@ -2,11 +2,11 @@
   "main": {
     "name":"Jeff Cao",
     "occupation":"(Your Occupation Here)",
-    "description":"I'm a third year student at the University of Chicago studying Computer Science and Economics spec. Data Science.",
+    "description":"I have experience in asset management, software engineering, and machine learning.",
     "image":"profile_jeff.jpg",
-    "bio":"In my gap year after high school and before attending University of Chicago, I travelled across Asia and worked for Beijing and Shenzhen-based startups, in both product management and software development roles. I have experience in fintech, mobile & web design, machine learning, and product design. My other interests include cycling, tennis, skiing, Formula 1, and food. Don’t hesitate to reach out if you want to collaborate!",
+    "bio":"In my gap year after high school, I travelled across Asia and worked for Beijing and Shenzhen-based startups - in both product design and mobile and web platform roles. I have a background in economics, statistics, machine learning, and computer systems. I graduated cum laude with degrees in Computer Science and Economics (Data Science Spec.) from the University of Chicago. My other interests include rock climbing, tennis, cooking, and movies.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "jeff8@uchicago.edu",
+    "email": "jhccao@outlook.com",
     "phone": "(508) 404-9448",
     "address":{
       "street":"(Your Street)",
@@ -14,8 +14,8 @@
       "state":"(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "http://www.jeffreyhc.com",
-    "resumedownload":"http://www.jeffreyhc.com",
+    "website": "http://www.jeffreycao.com",
+    "resumedownload":"http://www.jeffreycao.com",
     "social":[
       {
         "name":"facebook",
@@ -44,22 +44,29 @@
     "education":[
       {
         "school":"University of Chicago",
-        "degree":"Undergraduate, B.S. Computer Science, B.A. Economics with Specialization in Data Science",
+        "degree":"(Cum Laude) B.S. Computer Science, B.A. Economics with Specialization in Data Science",
         "graduated":"2019 - 2023",
-        "description":"At UChicago, I'm a Board Member of Maroon Capital (https://mc.uchicago.edu/), and a member of the TAMID group UChicago chapter."
+        "description":"At UChicago, I was the President of [Maroon Capital](https://mc.uchicago.edu), and the Tech Platform Director of the [UChicago Trading Competition](https://tradingcompetition.uchicago.edu/). I was also on the board of the UChicago Investing Forum."
       },
       {
         "school":"Milton Academy",
         "degree":"High School, Boston MA",
         "graduated":"2014 - 2018",
-        "description":"At Milton, I was a cohead and the Portfolio Manager of the Investment Club. I was also a cofounder of Milton's Filmmaking Club, which produced two films for the All American High School Filmmaking Festival."
+        "description":"At Milton, I was a Cofounder of the Milton Filmmaking Club, which produced two films for the All American High School Filmmaking Festival."
       }
     ],
     "work":[
       {
+        "company":"AQR Capital Management",
+        "title":"Analyst - Portfolio Solutions Group",
+        "years":"July 2023 – Current",
+        "company_bio": "Global investment management firm",
+        "description":"Producing thought leadership for clients in the form of custom macro-sensitivity and asset returns analyses and publishing [research papers](https://www.aqr.com/Insights/Research/Alternative-Thinking) on topics such as macroeconomic trends, factor investing, and asset allocation."
+      },
+      {
         "company":"CME Group, Inc",
         "title":"Software Developer & Risk Mgmt. Intern",
-        "years":"July 2021 – Current",
+        "years":"July 2021 – December 2023",
         "company_bio": "Global Financial Derivatives Markets Company",
         "description":"Built futures & options risk calculation tools using Python, VBA, SQL. Used Pandas to process client portfolio data into dashboard metrics that allows easy detection of outliers and potential at-risk clients. Analyzed Interest Rate Swap data to inform on trading costs and risk margins for major clients, and to update models for client default simulations."
       },
